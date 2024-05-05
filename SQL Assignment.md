@@ -19,7 +19,7 @@
     ('John', 'Wick', 'BLACK CHECKED TSHIRT L', 'Apparel', 'Yes', 'Apple', 'A15', 500, '2024-04-27', 'Approved', '452001, Indore, MP'),
     ('Mary', 'Ann', 'HP VICTUS', 'Laptop', 'No', 'HP', 'A14', 53000, '2024-04-27', 'Approved', '42001 Indore');
 
-## Assigment Tasks :
+## Assignment Tasks :
 
 ### 1. CHECKING STATUS OF ORDER by ORDER ID
     SELECT order_id, order_status
