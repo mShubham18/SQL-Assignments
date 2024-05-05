@@ -48,3 +48,4 @@
     WHERE product_returnable = 'Yes';
 
 ### 6. Entity-Relationship Diagram
+![Link Name](https://github.com/mShubham18/SQL-Assignments/blob/main/ENTITY-RELATIONSHIP-DIAG_page-0001.jpg)  
